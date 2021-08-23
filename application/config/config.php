@@ -522,6 +522,6 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['stripe_publishable_key'] ="pk_test_51JRagFSIYHUfavozSAzcAaWTmbz0yyywwDfFSnYHIwGP6ryeBKZDnidMsNMTrMiFOM7rbhuB4meEkBPc8Cgovtig002De6OKr8";
-$config['stripe_secret_key'] = "sk_test_51JRagFSIYHUfavozfNhtMBkTzLYgedACjVhOz4CfbjVKObgGA7CJ5vpYdb2SIZwybppBoQXkkNDRVVIuLnPQtzLr00qLmj4eyF";
+$config['stripe_publishable_key'] ="Your Publishable Key";
+$config['stripe_secret_key'] = "Your Secret key";
 $config['stripe_currency'] = "inr";
